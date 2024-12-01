@@ -36,19 +36,6 @@ The goal is to help Instagram users or marketers optimize their strategies with 
 - **Dataset**: Comprehensive metrics to support analysis.
 
 
-## Installation
-
-### Clone the Repository
-```bash
-git clone https://github.com/SEJALHANMANTE/Analyzing-User-Engagement-Patterns-on-Instagram
-cd Analyzing-User-Engagement-Patterns-on-Instagram
-
-'''
-
-
-
-
-
 ## Usage
 
 1. Open the `data/instagram_dataset.csv` for an overview of the dataset.
@@ -82,5 +69,10 @@ Thanks to these amazing people for contributing to this project:
 - [UZMA PATIL](https://github.com/Uzzx1110)
 - [SEJAL HANMANTE](https://github.com/SEJALHANMANTE)
 
+## Installation
 
+### Clone the Repository
+```bash
+git clone https://github.com/SEJALHANMANTE/Analyzing-User-Engagement-Patterns-on-Instagram
+cd Analyzing-User-Engagement-Patterns-on-Instagram
 
