@@ -51,13 +51,14 @@ The dataset includes:
 - **Columns**: Likes, comments, shares, follower count, post type, timestamp, etc.
 - **Size**: 1000 rows 
 
-## Features
+## Additional Features
 Project features and highlights:
-**Sentiment Analysis**: Performed sentiment analysis on Instagram comments using Python to evaluate audience reactions.
-**KPI Metrics**: Added custom metrics like engagement rate, comments-to-likes ratio, and average post performance by type.
-**Content Strategy Insights**: Provided actionable recommendations based on data-driven findings.
-**Time-Based Analysis**: Analyzed trends by day and hour to identify optimal posting times.
-**Navigation-Friendly Dashboard**: Created interactive buttons for seamless navigation within the Power BI dashboard.
+
+- **Sentiment Analysis**: Performed sentiment analysis on Instagram comments using Python to evaluate audience reactions.
+- **KPI Metrics**: Added custom metrics like engagement rate, comments-to-likes ratio, and average post performance by type.
+- **Content Strategy Insights**: Provided actionable recommendations based on data-driven findings.
+- **Time-Based Analysis**: Analyzed trends by day and hour to identify optimal posting times.
+- **Navigation-Friendly Dashboard**: Created interactive buttons for seamless navigation within the Power BI dashboard.
 
 ### Source
 - https://brightdata.com/products/datasets/instagram/ 
